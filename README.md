@@ -1,2 +1,2 @@
 # Projeto-Fullstack
-Projeto da aula de Projeto de Interfaces Web
+Projeto para aula de Tópicos Especiais em Tecnologia e Projeto de Interfaces Web
