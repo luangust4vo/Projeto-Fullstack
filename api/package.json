@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/luangust4vo/Projeto-Fullstack/issues"
   },
-  "homepage": "https://github.com/luangust4vo/Projeto-Fullstack#readme"
+  "homepage": "https://github.com/luangust4vo/Projeto-Fullstack#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
