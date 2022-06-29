@@ -4,6 +4,7 @@
   "description": "Projeto para as aulas de Tópicos Especiais em Tecnologia e Projeto de Interfaces Web",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
